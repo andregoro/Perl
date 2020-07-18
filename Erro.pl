@@ -1,0 +1,1 @@
+open(DATA, $file) || die "Error: Couldn't open the file $!";

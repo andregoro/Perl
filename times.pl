@@ -1,0 +1,2 @@
+$data=localtime();
+print $data;
