@@ -16,7 +16,11 @@ sub volume {
 }
 
 
- 
+
 %hash = ('name' => 'Tom', 'age' => 19);
-volume(1,2,%h);
-print(%hash)
+#volume(1,2,%h);
+use Cal;
+#use classe;
+print(%skillsExp);
+print(addSkills(1,"s"));
+print(%hash);

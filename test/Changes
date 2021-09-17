@@ -1,0 +1,6 @@
+Revision history for Perl extension test.
+
+0.01  Tue Jul 28 19:57:12 2020
+	- original version; created by h2xs 1.23 with options
+		-AX -n test
+
